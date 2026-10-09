@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Local environment and caches
+.venv/
+.cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Previous project, kept locally as a format reference only
+reference/

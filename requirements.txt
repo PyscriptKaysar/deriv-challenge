@@ -1,0 +1,4 @@
+# Plan 01 (offline pipeline). openai and python-dotenv arrive in Plan 02.
+scikit-learn==1.9.1
+pydantic==2.14.0
+pytest==9.1.1
