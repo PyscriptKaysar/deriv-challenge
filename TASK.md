@@ -72,7 +72,7 @@ Goal: `python main.py` and `python validate.py` pass from a clean copy **with no
 
 ## Needs an answer
 
-- [ ] **How is the submission uploaded?** A zip, a link, or something else? This decides the packaging in Plan 04. Not needed before then.
+- [x] **How is the submission uploaded?** — answered (9 Oct): the submit form requires a GitHub repo URL, plus an optional specs upload (Markdown). So git was added after all: pushed to [PyscriptKaysar/deriv-challenge](https://github.com/PyscriptKaysar/deriv-challenge), branch `main` (36 files; `.env`, `reference/` and `.venv/` are excluded by `.gitignore` and confirmed absent on GitHub). Specs to upload: `PLANNING.md` and `plans/01-offline-pipeline.md`.
 
 ---
 
